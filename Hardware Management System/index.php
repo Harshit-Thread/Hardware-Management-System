@@ -105,7 +105,7 @@ echo "<script>alert('Invalid Details');</script>";
 </div>
 </div>
  <a name="ulogin"></a>            
-<!--LOGIN PANEL START-->           
+<!--LOGIN PANEL START FROM HERE-->           
 <div class="row">
 <div class="col-md-6 col-sm-6 col-xs-12 col-md-offset-3" >
 <div class="panel panel-info">
