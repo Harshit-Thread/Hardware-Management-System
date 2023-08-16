@@ -19,7 +19,7 @@ else{
     <meta name="description" content="" />
     <meta name="author" content="" />
     <title>Online Hardware Management System |  Issued Hardware</title>
-    <!-- BOOTSTRAP CORE STYLE  -->
+    <!-- BOOTSTRAP CORE  -->
     <link href="assets/css/bootstrap.css" rel="stylesheet" />
     <!-- FONT AWESOME STYLE  -->
     <link href="assets/css/font-awesome.css" rel="stylesheet" />
