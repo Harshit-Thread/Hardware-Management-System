@@ -73,7 +73,7 @@ foreach($results as $result)
                                             <?php echo htmlentities($result->AuthorName);?><br />
                                             <?php echo htmlentities($result->ISBNNumber);?><br />
                                                 <?php if($result->isIssued=='1'): ?>
-<p style="color:red;">Hardware Already issued</p>
+<p style="color:red;">Hardware Already issued to someone </p>
 <?php endif;?>
                             </div>
 
